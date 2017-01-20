@@ -4,13 +4,20 @@ Google Fonts Greek Glyphs Sets
 
 ## Structure and Hierarchy of Glyph Sets for Greek:
 
-1. **Core** Basic Monotonic set for everyday modern Greek
-2. **Plus** Basic Polytonic set for scholarly Greek
-3. **Pro** Extended Polytonic set for Biblical / Ancient-Historical Greek
-4. **Expert** Small Caps for Core and Plus glyphs 
-4. **Archaic** Archais/Papyri for Biblical texts
-5. **Coptic** Coptic 
-6. **Ancient Musical Symbols** Greek and Byzantine Musical Symbols
+
+General Use
+
+1. **Core** Basic Monotonic set for everyday Modern Greek
+2. **Plus** Basic Polytonic set for Scholarly Greek
+3. **Pro** Extended Polytonic set for Ancient Greek Studies
+4. **Expert** Small Caps for Core and Plus sets
+5. **Archaic** Variable Letterforms for Ancient Texts, papyri
+
+Addendum 
+
+A. **Ancient Musical Symbols** Greek and Byzantine Musical Symbols
+B. **Biblical Studies** Obelisms and Ancient Greek Punctuation
+C. **Coptic** Liturgical language for Coptic Church  
 
 ### GF Greek Core, 77 glyphs total (+ 43 Optional Small Cap Variants)
 
@@ -37,7 +44,7 @@ Basic Polytonic Greek
 
 ### GF Greek Pro, 28 glyphs total 
 
-Extended Polytonic Greek
+Extended Polytonic Greek, Greek Biblical Studies.
 
 * Archaic Numerals ` ϛ ϟ ϡ ϝ `
 * Ancient Greek textual symbols ` ⸎ ⸏ ⸐ ⸑ ⸒ ⸓ ⸔ ⸕ ⸖ `
@@ -47,7 +54,7 @@ Extended Polytonic Greek
 
 Small caps for Core and Plus sets
 
-### GF Greek Archaic, 34 glyphs total
+### GF Greek Archaic, 109 glyphs total
 
 Archaic, Papyri
 
