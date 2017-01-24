@@ -5,19 +5,19 @@ Google Fonts Greek Glyphs Sets
 ## Structure and Hierarchy of Glyph Sets for Greek:
 
 
-General Use
+*General Use*
 
 1. **Core** Basic Monotonic set for everyday Modern Greek
 2. **Plus** Basic Polytonic set for Scholarly Greek
-3. **Pro** Extended Polytonic set for Ancient Greek Studies
-4. **Expert** Small Caps for Core and Plus sets
-5. **Archaic** Variable Letterforms for Ancient Texts, papyri
+3. **Expert** Small Caps for Core and Plus sets
 
-Addendum 
+*Scholarly Use*
 
-A. **Ancient Musical Symbols** Greek and Byzantine Musical Symbols
-B. **Biblical Studies** Obelisms and Ancient Greek Punctuation
-C. **Coptic** Liturgical language for Coptic Church  
+1. **Pro** Extended Polytonic set for Ancient Greek Studies
+2. **Archaic** Variable Letterforms for Ancient Texts, Papyri
+3. **Ancient Musical Symbols** Greek and Byzantine Musical Symbols
+4. **Coptic** Liturgical language for Coptic Church  
+
 
 ### GF Greek Core, 77 glyphs total (+ 43 Optional Small Cap Variants)
 
@@ -30,7 +30,9 @@ Basic Monotonic Greek
 * Accents `  ́ ΅ `
 * Kai symbol ` ϗ, Ϗ `
 
-### GF Greek Plus, 234 glyphs total (+122 Optional Small Cap Variants)
+### GF Greek Plus, 234 glyphs total 
+
+> +122 Optional Small Cap Variants
 
 Basic Polytonic Greek
 
@@ -42,32 +44,47 @@ Basic Polytonic Greek
 * Punctuation `  ̓ `
 * Combining Marks ` ͂ ̓ ̈́ ͅ `
 
-### GF Greek Pro, 28 glyphs total 
-
-Extended Polytonic Greek, Greek Biblical Studies.
-
-* Archaic Numerals ` ϛ ϟ ϡ ϝ `
-* Ancient Greek textual symbols ` ⸎ ⸏ ⸐ ⸑ ⸒ ⸓ ⸔ ⸕ ⸖ `
-* Archaic Punctuation ` ‿ ͜ ˙ ⁖ ⁘ ⁙ ⁚ ⁛ ⁜ ⁝ ⁞ `
-
 ### GF Greek Expert, 159 glyphs total
 
 Small caps for Core and Plus sets
+
+
+Scholarly Use
+
+
+### GF Greek Pro, 82 glyphs total 
+
+Extended Polytonic Greek, for scholarly edition of ancient texts (Ancient and Roman Greece studies, Byzantine studies, Greek Biblical studies)
+
+* Archaic Numerals `ϛ ϟ ϡ ϝ`
+* Ancient Greek textual symbols `⸎ ⸏ ⸐ ⸑ ⸒ ⸓ ⸔ ⸕ ⸖`
+* Archaic Punctuation `‿ ͜ ˙ ⁖ ⁘ ⁙ ⁚ ⁛ ⁜ ⁝ ⁞`
+* Greek Metrical Symbols `⏑ ⏒ ⏓ ⏔ ⏕ ⏖ ⏗ ⏘ ⏙`
+* Critical Sigla `⸀ ⸁ ⸂ ⸃ ⸄ ⸅ ⸆ ⸇ ⸈ ⸉ ⸊ ⸋ ⸌ ⸍`
+* Biblical Apparatus `ℵ ℶ 𝑙 𝔖 𝔐`
 
 ### GF Greek Archaic, 109 glyphs total
 
 Archaic, Papyri
 
-* Archaic UC ` ϘϚϜϞϠϺ `
-* Archaic LC ` ϙϛϝϟϡϻ `
-* Variant Letterforms ` κρςΣ `, ` Θϐϑϒϓϔϕϖε϶`
+* Archaic UC `ϘϚϜϞϠϺ`
+* Archaic LC `ϙϛϝϟϡϻ`
+* Variant Letterforms `κρςΣ`, `Θϐϑϒϓϔϕϖε϶`
 * Additional Letter `ϳ`
 * Additional archaic letters for Bactrian `Ϸϸ`
-* Symbol `ϼ`
+* Symbols `ϼ ☧`
 * Editorial symbols `ϽϾϿ`
-* Greek Arcophonic Symbols ` 𐅀𐅁𐅂𐅃𐅆𐅇𐅈𐅉𐅊𐅋𐅌𐅍𐅎𐅏𐅐𐅑𐅒𐅓𐅔𐅕𐅖𐅗𐅘𐅙𐅚𐅛𐅜𐅝𐅞𐅟𐅠𐅡𐅢𐅣𐅤𐅥𐅦𐅧𐅨𐅩𐅪𐅫𐅬𐅭𐅮𐅯𐅰𐅱𐅲𐅳𐅴 `
+* Ancient Greek mathematical character `⟀ ⟁`
+* Greek Acrophonic Symbols `𐅀𐅁𐅂𐅃𐅆𐅇𐅈𐅉𐅊𐅋𐅌𐅍𐅎𐅏𐅐𐅑𐅒𐅓𐅔𐅕𐅖𐅗𐅘𐅙𐅚𐅛𐅜𐅝𐅞𐅟𐅠𐅡𐅢𐅣𐅤𐅥𐅦𐅧𐅨𐅩𐅪𐅫𐅬𐅭𐅮𐅯𐅰𐅱𐅲𐅳𐅴`
 
-### GF Greek Coptic, 137 glyphs total
+ 
+### A. GF Ancient Musical Symbols, 123 glyphs total
+
+* Greek Vocal Notation Symbols
+* Greek Instrumental Notation Symbols
+* Byzantine Musical Symbols
+
+### B. GF Coptic, 137 glyphs total
 
 Coptic `U+03E2` – `U+03EF`, Coptic Unicode block `U+2C80` – `U+2CFF`
 
@@ -85,11 +102,44 @@ Coptic `U+03E2` – `U+03EF`, Coptic Unicode block `U+2C80` – `U+2CFF`
 * Coptic Fraction ` ⳽ ` 
 * Punctuation ` ⳾ ⳿ ` 
 
-### GF Ancient Musical Symbols, 123 glyphs total
 
-* Greek Vocal Notation Symbols
-* Greek Instrumental Notation Symbols
-* Byzantine Musical Symbols
+### Recommended Optional Additions
+
+#### Astronomical Symbols
+
+№ | Char | nice name | uni name
+-- | -- | -- | --
+1 | □ | whiteSquare | uni25A1
+2 | ★ | blackstar | uni2605
+3 | ☉ | sun | uni2609
+4 | ☊ | ascendingnode | uni260A
+5 | ☋ | descendingnode | uni260B
+6 | ☌ | conjunction | uni260C
+7 | ☍ | opposition | uni260D
+8 | ☽ | firstquartermoon | uni263D
+9 | ☾ | lastquartermoon | uni263E
+10 | ☿ | mercury | uni263F
+11 | ♀ | femalesign | uni2640
+12 | ♁ | earth | uni2641
+13 | ♂ | malesign | uni2642
+14 | ♃ | jupiter | uni2643
+15 | ♄ | saturn | uni2644
+16 | ♅ | uranus | uni2645
+17 | ♆ | neptune | uni2646
+18 | ♇ | pluto | uni2647
+19 | ♈ | aries | uni2648
+20 | ♉ | taurus | uni2649
+21 | ♊ | gemini | uni264A
+22 | ♋ | cancer | uni264B
+23 | ♌ | leo | uni264C
+24 | ♍ | virgo | uni264D
+25 | ♎ | libra | uni264E
+26 | ♏ | scorpius | uni264F
+27 | ♐ | sagittarius | uni2650
+28 | ♑ | capricorn | uni2651
+29 | ♒ | aquarius | uni2652
+30 | ♓ | pisces | uni2653
+
 
 ### Acknowledgements:
 
