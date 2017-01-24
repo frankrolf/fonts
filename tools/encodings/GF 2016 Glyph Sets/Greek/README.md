@@ -27,7 +27,7 @@ Basic Monotonic Greek
 * Basic Greek LC ` άέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώ `
 * Punctuation ` · ; `
 * Greek numeral signs or keraia ` ʹ ͵ `
-* Accents `  ́ ΅ `
+* Accents `  ́ ΅ `
 * Kai symbol ` ϗ, Ϗ `
 
 ### GF Greek Plus, 234 glyphs total 
@@ -36,10 +36,11 @@ Basic Monotonic Greek
 
 Basic Polytonic Greek
 
-* Polytonic UC `ἈἉἊἋἌἍἎἏἘἙἚἛἜἝἨἩἪἫἬἭἮἯἸἹἺἻἼἽἾἿὈὉὊὋὌὍὙὛὝὟὨὩὪὫὬὭὮὯᾈᾉᾊᾋᾌᾍᾎᾏᾘᾙᾚᾛᾜᾝᾞᾟᾨᾩᾪᾫᾬᾭᾮᾯᾸᾹᾺΆᾼῈΈῊΉῌῘῙῚΊῨῩῪΎῬῸΌῺΏῼ `
-* Polytonic LC ` ἀἁἂἃἄἅἆἇἐἑἒἓἔἕἠἡἢἣἤἥἦἧἰἱἲἳἴἵἶἷὀὁὂὃὄὅὐὑὒὓὔὕὖὗὠὡὢὣὤὥὦὧὰάὲέὴήὶίὸόὺύὼώᾀᾁᾂᾃᾄᾅᾆᾇᾐᾑᾒᾓᾔᾕᾖᾗᾠᾡᾢᾣᾤᾥᾦᾧᾰᾱᾲᾳᾴᾶᾷιῂῃῄῆῇῐῑῒΐῖῗῠῡῢΰῤῥῦῧῲῳῴῶῷ `
+* Polytonic UC `ἈἉἊἋἌἍἎἏἘἙἚἛἜἝἨἩἪἫἬἭἮἯἸἹἺἻἼἽἾἿὈὉὊὋὌὍὙὛὝὟὨὩὪὫὬὭὮὯᾈᾉᾊᾋᾌᾍᾎᾏᾘᾙᾚᾛᾜᾝᾞᾟᾨᾩᾪᾫᾬᾭᾮᾯᾸᾹᾺΆᾼῈΈῊΉῌῘῙῚΊῨῩῪΎῬῸΌῺΏῼ `
+* Polytonic LC ` ἀἁἂἃἄἅἆἇἐἑἒἓἔἕἠἡἢἣἤἥἦἧἰἱἲἳἴἵἶἷὀὁὂὃὄὅὐὑὒὓὔὕὖὗὠὡὢὣὤὥὦὧὰάὲέὴήὶίὸόὺύὼώᾀᾁᾂᾃᾄᾅᾆᾇᾐᾑᾒᾓᾔᾕᾖᾗᾠᾡᾢᾣᾤᾥᾦᾧᾰᾱᾲᾳᾴᾶᾷιῂῃῄῆῇῐῑῒΐῖῗῠῡῢΰῤῥῦῧῲῳῴῶῷ `
 * Accents `  ́ `  ͂ `
-* Breathings `  ̔  ̓ `* Combinations ` ῁ ῍ ῎ ῏ ῝ ῞ ῟ `
+* Breathings `  ̔  ̓ `
+* Combinations ` ῁ ῍ ῎ ῏ ῝ ῞ ῟ `
 * Diactritics `  ͅ ι `
 * Punctuation `  ̓ `
 * Combining Marks ` ͂ ̓ ̈́ ͅ `
@@ -107,8 +108,8 @@ Coptic `U+03E2` – `U+03EF`, Coptic Unicode block `U+2C80` – `U+2CFF`
 
 #### Astronomical Symbols
 
-№ | Char | nice name | uni name
--- | -- | -- | --
+№ | char | nice name | uni name
+---|---|---|---
 1 | □ | whiteSquare | uni25A1
 2 | ★ | blackstar | uni2605
 3 | ☉ | sun | uni2609
